@@ -2,16 +2,11 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE.
 
-package ipaddr_test
+package ipaddrtest
 
-import (
-	"fmt"
-	"log"
-	"net"
+import ()
 
-	"github.com/mikioh/ipaddr"
-)
-
+/*
 func ExampleCursor_traversal() {
 	c, err := ipaddr.Parse("2001:db8::/126,192.0.2.128/30,198.51.100.0/29")
 	if err != nil {
@@ -155,3 +150,4 @@ func ExamplePrefix_addressRangeSummarization() {
 	// 2001:db8::4000/114
 	// 2001:db8::8000/128
 }
+*/

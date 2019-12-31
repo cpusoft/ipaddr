@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE.
 
-package ipaddr
+package ipaddrtest
 
 func mask32(nbits int) uint32 {
 	return -uint32(1 << uint(32-nbits))
